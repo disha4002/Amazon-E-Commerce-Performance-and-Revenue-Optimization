@@ -23,4 +23,10 @@ Which products/categories/brands perform best, and is discounting effective?
 Where are cancellations, returns and shipping costs hurting performance?
 
 ## Overview
+The image below represents the revenue by month. One thing worth noticing is that there is a huge drop in the revenue in February after it peaks in January. The difference between both the months is ₹9,52,077, which is a huge gap. But then the revenue also becomes steady for the rest of the year, not deviating much.
+<br>
+Now the problem is to find the root cause behind that decline in that sspecific month.
+![image alt](https://github.com/disha4002/Amazon-E-Commerce-Performance-and-Revenue-Optimization/blob/3958443a6eba3e3336e5e803437283a626d306c7/Revenue%20by%20Month.png)
+
+
 
